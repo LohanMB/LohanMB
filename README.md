@@ -4,12 +4,6 @@
   <img src="banner.gif" width="300px">
 </div>
 
-<div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LohanMB&show_icons=true&theme=merko"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LohanMB&layout=compact&langs_count=7&theme=merko"/>
-</div>
-
-
 <div class="devicons" align="center" style="display: inline_block"></br>
   <img align="center" alt="Lohan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lohan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,11 +14,24 @@
 </div>
 </br>
 
+<table align="center">
+  <tr>
+    <td>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LohanMB&show_icons=true&theme=chartreuse-dark"/>
+    </td>
+    <td>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LohanMB&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/lohan-m-borges-7040531b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?stule=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/LohanMB?tab=repositories">
-    <img src="https://img.shields.io/badge/github-black?stule=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
+  <div>
+    <a href="https://www.linkedin.com/in/lohan-m-borges-7040531b2/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?stule=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://github.com/LohanMB?tab=repositories">
+      <img src="https://img.shields.io/badge/github-black?stule=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+    </a>
+  </div>
 </div>
