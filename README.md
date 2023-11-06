@@ -4,7 +4,7 @@
   <img src="banner.gif" width="300px">
 </div>
 
-<div align="center">
+<div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LohanMB&show_icons=true&theme=merko"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LohanMB&layout=compact&langs_count=7&theme=merko"/>
 </div>
